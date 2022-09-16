@@ -1,0 +1,31 @@
+const times = [
+    {
+        id:1,
+        name:'Florida',
+    },
+    {
+        id:2,
+        name:'Texas',
+    },
+    {
+        id:3,
+        name:'Poland',
+    },
+    {
+        id:4,
+        name:'Istanbul',
+    },
+    {
+        id:5,
+        name:'Pakistan',
+    },
+    {
+        id:6,
+        name:'Dubai',
+    },
+    {
+        id:7,
+        name:'Kazakhstan',
+    }
+]
+export default times;
